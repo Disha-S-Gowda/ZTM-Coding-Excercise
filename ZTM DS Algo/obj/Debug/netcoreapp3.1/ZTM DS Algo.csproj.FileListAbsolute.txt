@@ -1,0 +1,14 @@
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ZTM DS Algo\bin\Debug\netcoreapp3.1\ZTM DS Algo.exe
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ZTM DS Algo\bin\Debug\netcoreapp3.1\ZTM DS Algo.deps.json
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ZTM DS Algo\bin\Debug\netcoreapp3.1\ZTM DS Algo.runtimeconfig.json
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ZTM DS Algo\bin\Debug\netcoreapp3.1\ZTM DS Algo.runtimeconfig.dev.json
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ZTM DS Algo\bin\Debug\netcoreapp3.1\ZTM DS Algo.dll
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ZTM DS Algo\bin\Debug\netcoreapp3.1\ZTM DS Algo.pdb
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ZTM DS Algo\obj\Debug\netcoreapp3.1\ZTM DS Algo.csproj.AssemblyReference.cache
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ZTM DS Algo\obj\Debug\netcoreapp3.1\ZTM DS Algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ZTM DS Algo\obj\Debug\netcoreapp3.1\ZTM DS Algo.AssemblyInfoInputs.cache
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ZTM DS Algo\obj\Debug\netcoreapp3.1\ZTM DS Algo.AssemblyInfo.cs
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ZTM DS Algo\obj\Debug\netcoreapp3.1\ZTM DS Algo.csproj.CoreCompileInputs.cache
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ZTM DS Algo\obj\Debug\netcoreapp3.1\ZTM DS Algo.dll
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ZTM DS Algo\obj\Debug\netcoreapp3.1\ZTM DS Algo.pdb
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ZTM DS Algo\obj\Debug\netcoreapp3.1\ZTM DS Algo.genruntimeconfig.cache
