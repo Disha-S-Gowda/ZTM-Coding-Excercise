@@ -1,0 +1,14 @@
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ConsoleApp1\bin\Debug\netcoreapp3.1\ArrayExcersize.exe
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ConsoleApp1\bin\Debug\netcoreapp3.1\ArrayExcersize.deps.json
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ConsoleApp1\bin\Debug\netcoreapp3.1\ArrayExcersize.runtimeconfig.json
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ConsoleApp1\bin\Debug\netcoreapp3.1\ArrayExcersize.runtimeconfig.dev.json
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ConsoleApp1\bin\Debug\netcoreapp3.1\ArrayExcersize.dll
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ConsoleApp1\bin\Debug\netcoreapp3.1\ArrayExcersize.pdb
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ConsoleApp1\obj\Debug\netcoreapp3.1\ArrayExcersize.csproj.AssemblyReference.cache
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ConsoleApp1\obj\Debug\netcoreapp3.1\ArrayExcersize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ConsoleApp1\obj\Debug\netcoreapp3.1\ArrayExcersize.AssemblyInfoInputs.cache
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ConsoleApp1\obj\Debug\netcoreapp3.1\ArrayExcersize.AssemblyInfo.cs
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ConsoleApp1\obj\Debug\netcoreapp3.1\ArrayExcersize.csproj.CoreCompileInputs.cache
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ConsoleApp1\obj\Debug\netcoreapp3.1\ArrayExcersize.dll
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ConsoleApp1\obj\Debug\netcoreapp3.1\ArrayExcersize.pdb
+C:\Users\Disha_S\source\repos\ZTM DS Algo\ConsoleApp1\obj\Debug\netcoreapp3.1\ArrayExcersize.genruntimeconfig.cache
