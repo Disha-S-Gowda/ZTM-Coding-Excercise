@@ -46,6 +46,10 @@ namespace ArrayExcersize
             resultList.Sort();
             printArray(resultList);
 
+            //Length of array
+            var len = resultList.Count;
+            Console.WriteLine(len);
+
 
         }
 

@@ -59,6 +59,10 @@ namespace ArrayExcersize
             //BinarySearching
             var temp1 = list.BinarySearch(7);
             Console.WriteLine(temp1);
+
+            //length
+            var len = list.Count;
+            Console.WriteLine(len);
         }
 
         void PrintList(List<int> list)
