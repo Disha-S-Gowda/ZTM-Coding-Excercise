@@ -5,7 +5,7 @@ namespace ZTM_DS_Algo
     internal class Program
     {
         static void Main(string[] args)
-        {   
+        {
             //given 2 arrays, create a function that let's a user know (true/false)
             //char[] array1 = { 'a', 'x', 'c', 'x'};
             //char[] array2 = { 'z', 'z', 'x' };
@@ -15,12 +15,15 @@ namespace ZTM_DS_Algo
             //var result = util.FindCommonItem(array1, array2);
             //Console.WriteLine(result);
 
-            int[] array1 = { 0, 0, 3, 9 };
-            int sum = 0;
+            //int[] array1 = { 0, 0, 3, 9 };
+            //int sum = 0;
 
-            HasPairWithSum util = new HasPairWithSum();
-            bool result = util.DoesPairExist(array1, sum);
-            Console.WriteLine(result);
+            //HasPairWithSum util = new HasPairWithSum();
+            //bool result = util.DoesPairExist(array1, sum);
+            //Console.WriteLine(result);
+
+            FirstReccuringElement util = new FirstReccuringElement();
+            util.Do();
         }
     }
 }

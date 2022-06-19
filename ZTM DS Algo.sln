@@ -5,7 +5,13 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZTM DS Algo", "ZTM DS Algo\ZTM DS Algo.csproj", "{22536DF0-DE4A-45D6-89B4-4A71A9499F18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayExcersize", "ConsoleApp1\ArrayExcersize.csproj", "{FA3957C7-98FF-4C08-88DE-2456CA2C69EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayExcersize", "ConsoleApp1\ArrayExcersize.csproj", "{FA3957C7-98FF-4C08-88DE-2456CA2C69EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode_array", "Leetcode_array\Leetcode_array.csproj", "{3CAA5693-DA7C-433F-9D3C-0EC2ECAAF28F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashTableExcersize", "HashTableExcersize\HashTableExcersize.csproj", "{FEF8A931-3334-4D47-A0DB-42A8FF41B582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListExcercize", "LinkedListExcercize\LinkedListExcercize.csproj", "{44FB1E36-F587-44EB-9AB1-DEAC64B10B62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{FA3957C7-98FF-4C08-88DE-2456CA2C69EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA3957C7-98FF-4C08-88DE-2456CA2C69EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA3957C7-98FF-4C08-88DE-2456CA2C69EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CAA5693-DA7C-433F-9D3C-0EC2ECAAF28F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CAA5693-DA7C-433F-9D3C-0EC2ECAAF28F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CAA5693-DA7C-433F-9D3C-0EC2ECAAF28F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CAA5693-DA7C-433F-9D3C-0EC2ECAAF28F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF8A931-3334-4D47-A0DB-42A8FF41B582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF8A931-3334-4D47-A0DB-42A8FF41B582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF8A931-3334-4D47-A0DB-42A8FF41B582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF8A931-3334-4D47-A0DB-42A8FF41B582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44FB1E36-F587-44EB-9AB1-DEAC64B10B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FB1E36-F587-44EB-9AB1-DEAC64B10B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FB1E36-F587-44EB-9AB1-DEAC64B10B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FB1E36-F587-44EB-9AB1-DEAC64B10B62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
