@@ -1,14 +1,13 @@
 ﻿using System;
 
-namespace LinkedListExcercize
+namespace TreesExcersize
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            LinkedListOperations util = new LinkedListOperations();
+            BinarySearchTree util = new BinarySearchTree();
             util.Do();
-        }    
-
+        }
     }
 }

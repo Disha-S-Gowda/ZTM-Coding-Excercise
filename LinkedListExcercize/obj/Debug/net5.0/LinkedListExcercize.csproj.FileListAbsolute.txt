@@ -1,0 +1,16 @@
+C:\Users\Disha_S\source\repos\ZTM DS Algo\LinkedListExcercize\bin\Debug\net5.0\LinkedListExcercize.exe
+C:\Users\Disha_S\source\repos\ZTM DS Algo\LinkedListExcercize\bin\Debug\net5.0\LinkedListExcercize.deps.json
+C:\Users\Disha_S\source\repos\ZTM DS Algo\LinkedListExcercize\bin\Debug\net5.0\LinkedListExcercize.runtimeconfig.json
+C:\Users\Disha_S\source\repos\ZTM DS Algo\LinkedListExcercize\bin\Debug\net5.0\LinkedListExcercize.runtimeconfig.dev.json
+C:\Users\Disha_S\source\repos\ZTM DS Algo\LinkedListExcercize\bin\Debug\net5.0\LinkedListExcercize.dll
+C:\Users\Disha_S\source\repos\ZTM DS Algo\LinkedListExcercize\bin\Debug\net5.0\LinkedListExcercize.pdb
+C:\Users\Disha_S\source\repos\ZTM DS Algo\LinkedListExcercize\obj\Debug\net5.0\LinkedListExcercize.csproj.AssemblyReference.cache
+C:\Users\Disha_S\source\repos\ZTM DS Algo\LinkedListExcercize\obj\Debug\net5.0\LinkedListExcercize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Disha_S\source\repos\ZTM DS Algo\LinkedListExcercize\obj\Debug\net5.0\LinkedListExcercize.AssemblyInfoInputs.cache
+C:\Users\Disha_S\source\repos\ZTM DS Algo\LinkedListExcercize\obj\Debug\net5.0\LinkedListExcercize.AssemblyInfo.cs
+C:\Users\Disha_S\source\repos\ZTM DS Algo\LinkedListExcercize\obj\Debug\net5.0\LinkedListExcercize.csproj.CoreCompileInputs.cache
+C:\Users\Disha_S\source\repos\ZTM DS Algo\LinkedListExcercize\obj\Debug\net5.0\LinkedListExcercize.dll
+C:\Users\Disha_S\source\repos\ZTM DS Algo\LinkedListExcercize\obj\Debug\net5.0\refint\LinkedListExcercize.dll
+C:\Users\Disha_S\source\repos\ZTM DS Algo\LinkedListExcercize\obj\Debug\net5.0\LinkedListExcercize.pdb
+C:\Users\Disha_S\source\repos\ZTM DS Algo\LinkedListExcercize\obj\Debug\net5.0\LinkedListExcercize.genruntimeconfig.cache
+C:\Users\Disha_S\source\repos\ZTM DS Algo\LinkedListExcercize\obj\Debug\net5.0\ref\LinkedListExcercize.dll
