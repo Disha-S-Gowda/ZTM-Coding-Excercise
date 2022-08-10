@@ -24,7 +24,8 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "http://dcsartifacts.dell.com/artifactory/api/nuget/nuget": {},
           "http://dcsartifacts.dell.com/artifactory/api/nuget/nuget-local": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifacts.dell.com/artifactory/api/nuget/dicosv-1004054-nuget-prd-local": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
