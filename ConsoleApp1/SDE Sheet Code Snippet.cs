@@ -446,8 +446,132 @@ namespace ArrayExcersize
             return product;
         }
 
-        /*
-
+        /* Majority Element
+         
+        Given an array nums of size n, return the majority element.
+        The majority element is the element that appears more than ⌊n / 2⌋ times. You may assume that the majority element always exists in the array.
+        
+        Input: nums = [2,2,1,1,1,2,2]
+        Output: 2
         */
+
+        public int MajorityElement(int[] nums)
+        {
+            //Moore's Voting Algorithm
+
+            //since problem states the mejority element is present more than n/2 times. 
+            //even if we cancel the count whenever we encounter non majority element the element             //which remains in the last with count more than 0 will be the majority element.
+
+            //Apply Moore's Algo
+            int num = -1;
+            int count = 0;
+
+            foreach (int ele in nums)
+            {
+
+                if (count == 0)
+                {
+                    num = ele;
+                }
+
+                if (num == ele)
+                {
+                    count++;
+                }
+                else
+                {
+                    count--;
+                }
+            }
+            //we can confidently return the number since we know 
+            //there is always a majority element present
+
+            return num;
+        }
+
+        /* Majority Element II
+         
+        Given an integer array of size n, find all elements that appear more than ⌊ n/3 ⌋ times.
+
+        Input: nums = [3,2,3]
+        Output: [3]
+
+        Input: nums = [2,1,1,3,1,4,5,6]
+        Output: [1]
+
+         */
+
+        public IList<int> MajorityElement2(int[] nums)
+        {
+
+            //Moore's Voting Algorithm
+
+            //since problem states the mejority element is present more than n/2 times. 
+            //even if we cancel the count whenever we encounter non majority element the element             //which remains in the last with count more than 0 will be the majority element.
+
+            //Apply Moore's Algo
+            int num1 = -1;
+            int num2 = -1;
+            int count1 = 0;
+            int count2 = 0;
+            //since the count has to be more than n/3. we can have max 2 majority elements
+
+            foreach (int ele in nums)
+            {
+
+                if (num1 == ele)
+                {
+                    count1++;
+                }
+                else if (num2 == ele)
+                {
+                    count2++;
+                }
+                else if (count1 == 0)
+                {
+                    num1 = ele;
+                    count1++;
+                }
+                else if (count2 == 0)
+                {
+                    num2 = ele;
+                    count2++;
+                }
+                else
+                {
+                    count1--;
+                    count2--;
+                }
+            }
+
+            count1 = 0;
+            count2 = 0;
+
+            //after algo execution make sure the majority element are correct.
+            foreach (int ele in nums)
+            {
+                if (num1 == ele)
+                {
+                    count1++;
+                }
+                else if (num2 == ele)
+                {
+                    count2++;
+                }
+            }
+
+            List<int> output = new List<int>();
+            int limit = nums.Length / 3;
+
+            if (count1 > limit)
+            {
+                output.Add(num1);
+            }
+            if (count2 > limit)
+            {
+                output.Add(num2);
+            }
+            return output;
+        }
     }
 }
